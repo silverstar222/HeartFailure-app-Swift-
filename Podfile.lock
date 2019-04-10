@@ -1,0 +1,19 @@
+PODS:
+  - Crashlytics (3.8.4):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.11)
+  - WOWCheckbox (1.1.1)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - WOWCheckbox
+
+SPEC CHECKSUMS:
+  Crashlytics: 79e236942ca1e7fc641df1feb9a275360a78ab6a
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  WOWCheckbox: 3423ff4b6d410a5db678c27f299c5399baa10602
+
+PODFILE CHECKSUM: e924266726b817e002b228dd38387b28297cb576
+
+COCOAPODS: 1.2.1

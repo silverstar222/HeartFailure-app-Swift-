@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-HeartFailure.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-HeartFailureTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-HeartFailureUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WOWCheckbox.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2C625D0FA3C4DFED2B79048143C0F3E3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6388CF29015B4C8EB5DD2FDC9C5C1EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C56335DD707F122F8B6D2426850F8CEC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E34B3330A7A52CAB967AE49F19264A45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
